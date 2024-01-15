@@ -1,0 +1,11 @@
+C:\Users\Vista\source\repos\loging_vali\loging_vali\bin\Debug\loging_vali.exe.config
+C:\Users\Vista\source\repos\loging_vali\loging_vali\bin\Debug\loging_vali.exe
+C:\Users\Vista\source\repos\loging_vali\loging_vali\bin\Debug\loging_vali.pdb
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.csproj.AssemblyReference.cache
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.Form1.resources
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.Properties.Resources.resources
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.csproj.GenerateResource.cache
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.csproj.CoreCompileInputs.cache
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.exe
+C:\Users\Vista\source\repos\loging_vali\loging_vali\obj\Debug\loging_vali.pdb
